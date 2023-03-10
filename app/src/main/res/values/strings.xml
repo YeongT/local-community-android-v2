@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Local-Community</string>
+    <string name="app_name" translatable="false">LocalCommunity</string>
+    <string name="dialog_agree">OK</string>
+    <string name="dialog_decline">CANCLE</string>
 </resources>
